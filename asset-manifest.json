@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ShopHereEcommerceWebsite/static/css/main.3a502b2a.css",
+    "main.js": "/ShopHereEcommerceWebsite/static/js/main.b0db2d5d.js",
+    "static/js/453.68693753.chunk.js": "/ShopHereEcommerceWebsite/static/js/453.68693753.chunk.js",
+    "static/media/banner.jpg": "/ShopHereEcommerceWebsite/static/media/banner.168d6f44a9139f8cf074.jpg",
+    "static/media/logo1.jpg": "/ShopHereEcommerceWebsite/static/media/logo1.9bc2e01e2d3403017d9c.jpg",
+    "static/media/product1.jpg": "/ShopHereEcommerceWebsite/static/media/product1.1d1826f08f099030ddd3.jpg",
+    "static/media/product9.jpg": "/ShopHereEcommerceWebsite/static/media/product9.0e03d5559b9eeafcf47b.jpg",
+    "static/media/product15.jpg": "/ShopHereEcommerceWebsite/static/media/product15.c05bcb60ebafb8e6b5bf.jpg",
+    "static/media/product26.jpg": "/ShopHereEcommerceWebsite/static/media/product26.0a444a8fdda6d179e5e9.jpg",
+    "static/media/product7.jpg": "/ShopHereEcommerceWebsite/static/media/product7.b8006b46bfa8dea53bd7.jpg",
+    "static/media/dataproduct3.jpg": "/ShopHereEcommerceWebsite/static/media/dataproduct3.9bd70b4b65ec1737af93.jpg",
+    "static/media/dataproduct1.jpg": "/ShopHereEcommerceWebsite/static/media/dataproduct1.2a99636386f90af2372c.jpg",
+    "static/media/product3.jpg": "/ShopHereEcommerceWebsite/static/media/product3.536d95c943aa00f668d8.jpg",
+    "static/media/product16.jpg": "/ShopHereEcommerceWebsite/static/media/product16.99a92436177c85d39014.jpg",
+    "static/media/banner_men.jpg": "/ShopHereEcommerceWebsite/static/media/banner_men.5c8c31f6e8b090c71b33.jpg",
+    "static/media/product33.jpg": "/ShopHereEcommerceWebsite/static/media/product33.362ab94963f1b8536150.jpg",
+    "index.html": "/ShopHereEcommerceWebsite/index.html",
+    "main.3a502b2a.css.map": "/ShopHereEcommerceWebsite/static/css/main.3a502b2a.css.map",
+    "main.b0db2d5d.js.map": "/ShopHereEcommerceWebsite/static/js/main.b0db2d5d.js.map",
+    "453.68693753.chunk.js.map": "/ShopHereEcommerceWebsite/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a502b2a.css",
+    "static/js/main.b0db2d5d.js"
+  ]
+}
