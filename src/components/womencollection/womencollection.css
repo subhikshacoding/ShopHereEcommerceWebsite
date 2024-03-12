@@ -1,0 +1,34 @@
+.womencollection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 100px;
+    
+}
+.womenbanner{
+    width: 800px;
+    height: 300px;
+    border-radius: 2rem;
+    padding-left: 90px;
+    margin-top: 30px;
+
+}
+.womencollection h1{
+    color: #171717;
+    font-size: 30px;
+    font-weight: 600;
+    padding-right: 900px;
+}
+.womencollection hr{
+    width: 100%;
+    height: 2px;
+    border-radius: 5px;
+    background: #867f7f;
+}
+.collections{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    gap: 30px;
+}
